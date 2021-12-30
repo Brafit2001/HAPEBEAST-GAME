@@ -1,4 +1,5 @@
 # HAPEBEAST-Game 🍌🍌 -ES
+[EN](https://github.com/Brafit2001/HAPEBEAST-GAME/edit/main/README.md) | [ES](https://github.com/Brafit2001/HAPEBEAST-GAME/blob/main/README_translate/README_ES.md) | [FR](https://github.com/Brafit2001/HAPEBEAST-GAME/blob/main/README_translate/README_FR.md) | [CN](https://github.com/Brafit2001/HAPEBEAST-GAME/blob/main/README_translate/README_CN.md)
 ## Lore🔮
 * En esta historia nuestro valiente héroe mono🦍 "dood van Harambe" alias "Harambe" ha visto su HORRIBLE futuro en un sueño, y sabe que si eso ocurre el equilibrio de todo el bien y el mal se verá alterado, produciendo nuestra actual situación global (cambio climático, COVID-19🦠). Por lo tanto, asume la responsabilidad de evitarlo a toda costa, así que cuando tiene la oportunidad se cambia el color de su pelaje y escapa a las tierras más lejanas para reunirse con su viejo amigo el "Maestro Oogway🐢". Sin embargo, tiene que reunir el mayor número de puntos posible, ya que el viaje será largo y los recursos no son ilimitados. ¡¡LA MEJOR DE LAS SUERTES HARAMBE!!
 
