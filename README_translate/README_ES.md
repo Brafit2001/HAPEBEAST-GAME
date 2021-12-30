@@ -9,8 +9,8 @@
 * Además, cualquier comentario es bien recibido.😊
 
 ## Links para descargar🔗
-* [MacOS Version]
-* [Windows Version]
+* [MacOS Version](https://drive.google.com/file/d/1HXFSKz2p_dmxtMkCq9L6IbHKalFDolsS/view?usp=sharing)
+* [Windows Version](https://drive.google.com/file/d/1m36EkQEB0moMRuGB_m__gYgGgbf-kzLk/view?usp=sharing)
 
 ## Seguridad🔒
 * Nosotros, como equipo, somos conscientes de que en esta sociedad moderna la ciberseguridad es un tema importante. Y queremos que todo el mundo pruebe nuestro juego y se sienta seguro al hacerlo, por lo que antes de descargar el juego queremos informarte de que, al no ser un proveedor oficial de juegos, recibirás advertencias como que el archivo no es recomendable para descargar. Entendemos que después de leer esta advertencia te lo pienses dos veces antes de hacerlo. Por ello, este enlace va a un conocido [Escaner de Virus](https://www.virustotal.com/gui/home/upload) online que puedes utilizar después de la descarga y antes de jugar al juego. Además, te recomendamos que utilices cualquier otro escáner de virus, ya que queremos ser lo más transparentes posible.
