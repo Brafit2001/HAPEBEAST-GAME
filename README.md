@@ -12,7 +12,7 @@
 * [Windows Version](https://drive.google.com/file/d/1m36EkQEB0moMRuGB_m__gYgGgbf-kzLk/view?usp=sharing)
 
 ## Security🔒
-* We as a team are aware that in this modern society, cyber security is an important topic. And we want everyone to try our game and feel safe when doing so, therefore before downloading the game we want to inform you that as we are not an official game provider you will receive warnings as if the file was not recommended to download. We understand that after reading this warning you might think it twice before actually doing it. For that reason, this link goes to a very well known online [Virus scanner](https://www.virustotal.com/gui/home/upload) that you can use after downloading and before playing the game. Also, we recommend you use any other virus scanner as we want to be as transparent as possible.
+* We as a team are aware that in this modern society, cyber security is an important topic. Therefore, we want everyone to try our game and feel safe when doing so, therefore before downloading the game we want to inform you that as we are not an official game provider you will receive warnings as if the file was not recommended to download. We understand that after reading this warning you might think it twice before actually doing it. For that reason, this link goes to a very well known online [Virus scanner](https://www.virustotal.com/gui/home/upload) that you can use after downloading and before playing the game. Also, we recommend you use any other virus scanner as we want to be as transparent as possible.
 
 ## How to install the Game ⚙️
 (GIFT OF HOW TO)
