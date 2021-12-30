@@ -1,11 +1,22 @@
-# HAPEBEAST-FINAL 🍌🍌
-## Lore
+# HAPEBEAST-Game 🍌🍌 - EN
+## Lore🔮
+*c
 
-* In this story our brave monkey🦍 hero "dood van Harambe" AKA "Harambe" has seen his FATAL future in a dream, and he knows if that happens the balance of all the good and evil will be disturbed, producing our current global situation (climate change, COVID-19🦠). Therefore he takes the responsability to prevent that at all cost, so when he has the opportunity he changes his fur colour and escapes to the further lands to meet his old friend "Master Oogway🐢". However, he needs to collect as much points as possible as the travel will be long and resources are not limitless. BEST OF LUCKS HARAMBE!!!
+##  Event 📖
+* During the first 24 hours we will do a list of the top 5 player, and these players will have a special recognition. For this to happen we will need you to take a screenshot of your highest score and then send it through twitter mentioning your favorite MOOD and any of us three. Good Luck and STAY HAPE!!!
+* Also any feedback is very well appreciate.
 
-## Creatos ✒️
-* **Mausirio / HapeBEast#1924** - [jorgefhn](https://github.com/jorgefhn)
-* **[PRIME] Augusto2569#0310**  - [Augusto2569](https://github.com/Augusto2569)
+## Download Links🔗
+* [MacOS Version]
+* [Windows Version]
+
+## Security🔒
+* We as a team are aware that in this modern sociaty, cyber security is an important topic. And we want everyone to try our game and feel safe when doing so, therefore before downloading the game we want to inform you that as we are not an official game provider you will receive warnings as if the file was not recommended to download. We understand that after reading this warning you might think it twice before actually doing it. For that reason the this link goes to a very well known online virus scanner that you can use after downloading and before playing the game. Also we recommend you to use any other virus scanner as we want to be as transparent as possible.
+
+## How to Set the game⚙️
+(GIFT OF HOW TO)
+
+
 
 ## Controls + basic concepts 📑
 * Movement - Left "A" or "<" - Right "D" or ">"
@@ -14,15 +25,17 @@
 * Restart🔄 - "R"
 * Lifes❤️ - 3 per game
 
-##  📖
+## Special shout out⚡⚡
+* HapeBeast Staff - Thanks for creating this space for everyone to fit and be themselves.
+* HapeBeast community - since we entered the community we felt like home, everyone has been so warm and friendly, this is something really special. And a special acknowledgement to #spanish (BANDERA DE ESPAÑA) as it was the place where this team met, and since then we had the same objective. Provide value to this awesome community🥇🥇
 
-## Special shout out 📖
-* HapeBeast community - since we entered the community we felt like home, everyone has been so warm and friendly, this is something really special.
-* HapeBeast Staff - Thanks for creating this space for everyone to fit and be themselves
+## Creatos ✒️
+* **Mausirio / HapeBEast#1924** - [twitter](https://mobile.twitter.com/Mauricio202003)
+* **[HapeBeast] Augusto2569#0310**  
+* brafit | HAPE - [Twitter](https://twitter.com/brafit201?t=GZyvkU5mDVE605O2frVZbA&s=08)
 
-
-## Related Links 📚
+## Relevant Links 📚
 * [HapeBeast Twitter](https://mobile.twitter.com/hapebeastgang) 
 * [HapeBeast Webpage](https://www.hapebeast.com/)
 * [HapeBeast Discord](https://discord.com/invite/hypebeast) 
-* [Mausirio Twitter](https://mobile.twitter.com/Mauricio202003)
+* [Virus scanner](https://www.virustotal.com/gui/home/upload)
