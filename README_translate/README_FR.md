@@ -21,7 +21,17 @@
 * En tant qu'équipe, nous sommes conscients que dans cette société moderne, la cybersécurité est un sujet important. Et nous voulons que tout le monde essaie notre jeu et se sente en sécurité en le faisant, donc avant de télécharger le jeu, nous voulons vous informer que comme nous ne sommes pas un fournisseur officiel de jeux, vous recevrez des avertissements comme si le fichier n'était pas recommandé pour le téléchargement. Nous comprenons qu'après avoir lu cet avertissement, vous pourriez y réfléchir à deux fois avant de le faire. Pour cette raison, ce lien renvoie à un en ligne très connu  [Virus scanner](https://www.virustotal.com/gui/home/upload) que vous pouvez utiliser après le téléchargement et avant de jouer au jeu. Nous vous recommandons également d'utiliser tout autre scanner de virus, car nous souhaitons être aussi transparents que possible.
 
 ## Comment installer le jeu ⚙️
-(GIFT OF HOW TO)
+*  Télécharger le jeu
+
+https://user-images.githubusercontent.com/46831417/147775172-cbd31d03-c907-40cf-b5eb-bc0dc92a95d1.mp4
+
+* Autorisation de sécurité MacOS
+
+https://user-images.githubusercontent.com/46831417/147775455-b17921bc-b136-41d5-88cc-b2b3e08ee5bc.mp4
+
+* Autorisation de sécurité Windows
+
+https://user-images.githubusercontent.com/46831417/147776087-c6b059a4-1af9-4a4d-b866-e03a218a4b2e.mp4
 
 
 
