@@ -7,7 +7,7 @@
 * Also, any feedback is very well appreciated.😊
 
 ## Download Links🔗
-* [MacOS Version](https://google.com)
+* [MacOS Version](https://drive.google.com/file/d/1HXFSKz2p_dmxtMkCq9L6IbHKalFDolsS/view?usp=sharing)
 * [Windows Version](https://drive.google.com/file/d/1m36EkQEB0moMRuGB_m__gYgGgbf-kzLk/view?usp=sharing)
 
 ## Security🔒
