@@ -30,9 +30,9 @@
 * HapeBeast community - since we entered the community we felt like home, everyone has been so warm and friendly, this is something really special. And a special acknowledgement to the **# 🇪🇸|spanish** community as it was the place where this team met, and since then we had the same objective. Provide value to this awesome community🥇🥇
 
 ## Creatos ✒️
-* **Mausirio / HapeBEast#1924** - [twitter](https://mobile.twitter.com/Mauricio202003)
-* **[HapeBeast] Augusto2569#0310**  
-* brafit | HAPE - [Twitter](https://twitter.com/brafit201?t=GZyvkU5mDVE605O2frVZbA&s=08)
+* **Mausirio / HapeBEast #1924** - [Twitter](https://mobile.twitter.com/Mauricio202003)
+* **Augusto2569 | H∀PE #0310**  
+* **brafit | HAPE #5707** - [Twitter](https://twitter.com/brafit201?t=GZyvkU5mDVE605O2frVZbA&s=08)
 
 ## Relevant Links 📚
 * [HapeBeast Twitter](https://mobile.twitter.com/hapebeastgang) 
