@@ -3,7 +3,6 @@
 
 ![img1](https://user-images.githubusercontent.com/46831417/147771228-e88e7df3-4c14-48f1-aadf-bf07ec0fd791.png)
 ![img2](https://user-images.githubusercontent.com/46831417/147771233-7cfe6709-b7d1-467c-8e8e-60a7dee79aca.png)
-![img4](https://user-images.githubusercontent.com/46831417/147771356-ddd69a7d-54ff-4d44-af82-c5c30ba53b83.png)
 ![img3](https://user-images.githubusercontent.com/46831417/147771257-eb09fb53-edd9-44dc-a620-2731050a9ddf.png)
 
 
