@@ -25,6 +25,7 @@
 https://user-images.githubusercontent.com/46831417/147775172-cbd31d03-c907-40cf-b5eb-bc0dc92a95d1.mp4
 
 * Securtiy Authorization MacOS
+https://user-images.githubusercontent.com/46831417/147775455-b17921bc-b136-41d5-88cc-b2b3e08ee5bc.mp4
 
 * Security Authorization Windows
 
