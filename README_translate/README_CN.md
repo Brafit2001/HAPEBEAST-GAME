@@ -20,7 +20,17 @@
 * 我们作为一个团队知道，在这个现代社会，网络安全是一个重要的话题。我们希望每个人都能尝试我们的游戏并感到安全，因此在下载游戏之前，我们想告诉你，由于我们不是官方的游戏供应商，你会收到警告，就像文件不被推荐下载一样。我们理解，在阅读这个警告后，你可能会在实际操作前三思而后行。出于这个原因，这个链接指向一个非常著名的在线[病毒扫描器](https://www.virustotal.com/gui/home/upload)，你可以在下载后和玩游戏前使用。此外，我们建议你使用任何其他的病毒扫描器，因为我们希望尽可能的透明。
 
 ## 如何安装该游戏 ⚙️
-(GIFT OF HOW TO)
+* 下载游戏
+
+https://user-images.githubusercontent.com/46831417/147775172-cbd31d03-c907-40cf-b5eb-bc0dc92a95d1.mp4
+
+* 安全授权 MacOS
+
+https://user-images.githubusercontent.com/46831417/147775455-b17921bc-b136-41d5-88cc-b2b3e08ee5bc.mp4
+
+* 安全授权 Windows
+
+https://user-images.githubusercontent.com/46831417/147776087-c6b059a4-1af9-4a4d-b866-e03a218a4b2e.mp4
 
 
 
