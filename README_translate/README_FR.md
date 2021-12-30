@@ -1,5 +1,11 @@
 # HAPEBEAST - Game 🍌🍌 - FR
 [EN](https://github.com/Brafit2001/HAPEBEAST-GAME/blob/main/README.md) | [ES](https://github.com/Brafit2001/HAPEBEAST-GAME/blob/main/README_translate/README_ES.md) | [FR](https://github.com/Brafit2001/HAPEBEAST-GAME/blob/main/README_translate/README_FR.md) | [CN](https://github.com/Brafit2001/HAPEBEAST-GAME/blob/main/README_translate/README_CN.md)
+
+![img1](https://user-images.githubusercontent.com/46831417/147771228-e88e7df3-4c14-48f1-aadf-bf07ec0fd791.png)
+![img2](https://user-images.githubusercontent.com/46831417/147771233-7cfe6709-b7d1-467c-8e8e-60a7dee79aca.png)
+![img3](https://user-images.githubusercontent.com/46831417/147771257-eb09fb53-edd9-44dc-a620-2731050a9ddf.png)
+
+
 ## Lore🔮
 * Dans cette histoire, notre brave héros singe🦍 "dood van Harambe" alias "Harambe" a vu son avenir FATAL dans un rêve, et il sait que si cela se produit, l'équilibre de tous les bons et les mauvais sera perturbé, produisant notre situation mondiale actuelle (changement climatique, COVID-19🦠). Il prend donc la responsabilité d'empêcher cela à tout prix, alors quand il en a l'occasion, il change la couleur de sa fourrure et s'échappe vers les terres lointaines pour rencontrer son vieil ami "Maître Oogway🐢". Cependant, il doit collecter le plus de points possible car le voyage sera long et les ressources ne sont pas illimitées. BONNE CHANCE HARAMBE !!!
 
