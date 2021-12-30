@@ -22,13 +22,16 @@
 
 ## How to install the Game ⚙️
 * Download Video
+
 https://user-images.githubusercontent.com/46831417/147775172-cbd31d03-c907-40cf-b5eb-bc0dc92a95d1.mp4
 
-* Securtiy Authorization MacOS
+* Security Authorization MacOS
+
 https://user-images.githubusercontent.com/46831417/147775455-b17921bc-b136-41d5-88cc-b2b3e08ee5bc.mp4
 
 * Security Authorization Windows
 
+https://user-images.githubusercontent.com/46831417/147776087-c6b059a4-1af9-4a4d-b866-e03a218a4b2e.mp4
 
 
 ## Controls + basic concepts 📑
