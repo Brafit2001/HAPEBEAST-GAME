@@ -27,7 +27,7 @@
 
 ## Special shout out⚡⚡
 * HapeBeast Staff - Thanks for creating this space for everyone to fit and be themselves.
-* HapeBeast community - since we entered the community we felt like home, everyone has been so warm and friendly, this is something really special. And a special acknowledgement to #spanish (BANDERA DE ESPAÑA) as it was the place where this team met, and since then we had the same objective. Provide value to this awesome community🥇🥇
+* HapeBeast community - since we entered the community we felt like home, everyone has been so warm and friendly, this is something really special. And a special acknowledgement to #spanish 🇪🇸 as it was the place where this team met, and since then we had the same objective. Provide value to this awesome community🥇🥇
 
 ## Creatos ✒️
 * **Mausirio / HapeBEast#1924** - [twitter](https://mobile.twitter.com/Mauricio202003)
