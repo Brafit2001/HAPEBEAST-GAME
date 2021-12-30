@@ -1,5 +1,5 @@
 # HAPEBEAST - Game 🍌🍌 
-[EN](https://github.com/Brafit2001/HAPEBEAST-GAME/blob/main/README.md) | [ES](https://github.com/Brafit2001/HAPEBEAST-GAME/blob/main/README_translate/README_ES.md) | [FR](https://github.com/Brafit2001/HAPEBEAST-GAME/blob/main/README_translate/README_FR.md) | [CN](https://github.com/Brafit2001/HAPEBEAST-GAME/blob/main/README_translate/README_CN.md)
+[EN](https://github.com/Brafit2001/HAPEBEAST-GAME) | [ES](https://github.com/Brafit2001/HAPEBEAST-GAME/blob/main/README_translate/README_ES.md) | [FR](https://github.com/Brafit2001/HAPEBEAST-GAME/blob/main/README_translate/README_FR.md) | [CN](https://github.com/Brafit2001/HAPEBEAST-GAME/blob/main/README_translate/README_CN.md)
 
 ![img1](https://user-images.githubusercontent.com/46831417/147771228-e88e7df3-4c14-48f1-aadf-bf07ec0fd791.png)
 ![img2](https://user-images.githubusercontent.com/46831417/147771233-7cfe6709-b7d1-467c-8e8e-60a7dee79aca.png)
