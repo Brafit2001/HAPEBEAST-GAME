@@ -35,7 +35,7 @@
 
 ## Special shout out⚡⚡
 * Personal de HapeBeast - Gracias por crear este espacio para que todos encajen y sean ellos mismos.
-* Comunidad HapeBeast - desde que entramos a la comunidad nos sentimos como en casa, todos han sido tan cálidos y amables, esto es algo realmente especial. Y un reconocimiento especial a la comunidad #spanish 🇪🇸 ya que fue el lugar donde este equipo se conoció, y desde entonces tuvimos el mismo objetivo. Aportar valor a esta impresionante comunidad🥇🥇.
+* Comunidad HapeBeast - desde que entramos a la comunidad nos sentimos como en casa, todos han sido tan cálidos y amables, esto es algo realmente especial. Y un reconocimiento especial a la comunidad **# 🇪🇸|spanish** ya que fue el lugar donde este equipo se conoció, y desde entonces tuvimos el mismo objetivo. Aportar valor a esta impresionante comunidad🥇🥇.
 
 ## Creadores ✒️
 * **Mausirio / HapeBEast#1924** - [twitter](https://mobile.twitter.com/Mauricio202003)
