@@ -1,4 +1,5 @@
-# HAPEBEAST - Game 🍌🍌 CN
+# HAPEBEAST - Game 🍌🍌 - CN
+[EN](https://github.com/Brafit2001/HAPEBEAST-GAME/edit/main/README.md) | [ES](https://github.com/Brafit2001/HAPEBEAST-GAME/blob/main/README_translate/README_ES.md) | [FR](https://github.com/Brafit2001/HAPEBEAST-GAME/blob/main/README_translate/README_FR.md) | [CN](https://github.com/Brafit2001/HAPEBEAST-GAME/blob/main/README_translate/README_CN.md)
 ## 罗尔🔮
 * 在这个故事中，我们勇敢的猴子🦍主人公 "Dood van Harambe "又名 "Harambe "在梦中看到了他致命的未来，他知道如果这种情况发生，所有善与恶的平衡将被打破，产生我们目前的全球状况（气候变化，COVID-19🦠）。因此，他有责任不惜一切代价防止这种情况发生，所以当他有机会时，他改变了自己的皮毛颜色，逃到更远的地方去见他的老朋友 "乌龟大师"。然而，他需要尽可能多地收集积分，因为旅行将是漫长的，而且资源也不是无限的。祝哈兰贝好运！！！。
 
