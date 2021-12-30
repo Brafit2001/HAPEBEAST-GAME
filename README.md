@@ -1,19 +1,19 @@
-# HAPEBEAST-Game 🍌🍌 - EN
+# HAPEBEAST-Game 🍌🍌 
 ## Lore🔮
-* In this story our brave monkey🦍 hero "dood van Harambe" AKA "Harambe" has seen his FATAL future in a dream, and he knows if that happens the balance of all the good and evil will be disturbed, producing our current global situation (climate change, COVID-19🦠). Therefore he takes the responsability to prevent that at all cost, so when he has the opportunity he changes his fur colour and escapes to the further lands to meet his old friend "Master Oogway🐢". However, he needs to collect as much points as possible as the travel will be long and resources are not limitless. BEST OF LUCKS HARAMBE!!!
+* In this story our brave monkey🦍 hero "dood van Harambe" AKA "Harambe" has seen his FATAL future in a dream, and he knows if that happens the balance of all the good and evil will be disturbed, producing our current global situation (climate change, COVID-19🦠). Therefore he takes the responsibility to prevent that at all cost, so when he has the opportunity he changes his fur colour and escapes to the further lands to meet his old friend "Master Oogway🐢". However, he needs to collect as many points as possible as the travel will be long and resources are not limitless. BEST OF LUCKS HARAMBE!!!
 
 ##  Event 📖
-* During the first 24 hours we will do a list of the top 5 player, and these players will have a special recognition. For this to happen we will need you to take a screenshot of your highest score and then send it through twitter mentioning your favorite MOOD and any of us three. Good Luck and STAY HAPE!!!
-* Also any feedback is very well appreciate.
+* During the first 24 hours, we will do a list of the top 5 players, and these players will have special recognition. For this to happen we will need you to take a screenshot of your highest score and then send it through Twitter mentioning your favourite MOOD and any of us three. Good Luck and STAY HAPE!!!
+* Also, any feedback is very well appreciated.😊
 
 ## Download Links🔗
 * [MacOS Version]
 * [Windows Version]
 
 ## Security🔒
-* We as a team are aware that in this modern sociaty, cyber security is an important topic. And we want everyone to try our game and feel safe when doing so, therefore before downloading the game we want to inform you that as we are not an official game provider you will receive warnings as if the file was not recommended to download. We understand that after reading this warning you might think it twice before actually doing it. For that reason the this link goes to a very well known online virus scanner that you can use after downloading and before playing the game. Also we recommend you to use any other virus scanner as we want to be as transparent as possible.
+* We as a team are aware that in this modern society, cyber security is an important topic. And we want everyone to try our game and feel safe when doing so, therefore before downloading the game we want to inform you that as we are not an official game provider you will receive warnings as if the file was not recommended to download. We understand that after reading this warning you might think it twice before actually doing it. For that reason, this link goes to a very well known online [Virus scanner](https://www.virustotal.com/gui/home/upload) that you can use after downloading and before playing the game. Also, we recommend you use any other virus scanner as we want to be as transparent as possible.
 
-## How to Set the game⚙️
+## How to Set up the game⚙️
 (GIFT OF HOW TO)
 
 
