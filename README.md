@@ -1,6 +1,6 @@
 # HAPEBEAST-Game 🍌🍌 - EN
 ## Lore🔮
-*c
+* In this story our brave monkey🦍 hero "dood van Harambe" AKA "Harambe" has seen his FATAL future in a dream, and he knows if that happens the balance of all the good and evil will be disturbed, producing our current global situation (climate change, COVID-19🦠). Therefore he takes the responsability to prevent that at all cost, so when he has the opportunity he changes his fur colour and escapes to the further lands to meet his old friend "Master Oogway🐢". However, he needs to collect as much points as possible as the travel will be long and resources are not limitless. BEST OF LUCKS HARAMBE!!!
 
 ##  Event 📖
 * During the first 24 hours we will do a list of the top 5 player, and these players will have a special recognition. For this to happen we will need you to take a screenshot of your highest score and then send it through twitter mentioning your favorite MOOD and any of us three. Good Luck and STAY HAPE!!!
