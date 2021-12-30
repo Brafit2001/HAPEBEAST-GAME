@@ -1,4 +1,4 @@
-# HAPEBEAST-Game 🍌🍌 
+# HAPEBEAST - Game 🍌🍌 
 ## Lore🔮
 * In this story our brave monkey🦍 hero "dood van Harambe" AKA "Harambe" has seen his FATAL future in a dream, and he knows if that happens the balance of all the good and evil will be disturbed, producing our current global situation (climate change, COVID-19🦠). Therefore he takes the responsibility to prevent that at all cost, so when he has the opportunity he changes his fur colour and escapes to the further lands to meet his old friend "Master Oogway🐢". However, he needs to collect as many points as possible as the travel will be long and resources are not limitless. BEST OF LUCKS HARAMBE!!!
 
@@ -7,13 +7,13 @@
 * Also, any feedback is very well appreciated.😊
 
 ## Download Links🔗
-* [MacOS Version]
-* [Windows Version]
+* [MacOS Version](https://google.com)
+* [Windows Version](https://drive.google.com/file/d/1m36EkQEB0moMRuGB_m__gYgGgbf-kzLk/view?usp=sharing)
 
 ## Security🔒
 * We as a team are aware that in this modern society, cyber security is an important topic. And we want everyone to try our game and feel safe when doing so, therefore before downloading the game we want to inform you that as we are not an official game provider you will receive warnings as if the file was not recommended to download. We understand that after reading this warning you might think it twice before actually doing it. For that reason, this link goes to a very well known online [Virus scanner](https://www.virustotal.com/gui/home/upload) that you can use after downloading and before playing the game. Also, we recommend you use any other virus scanner as we want to be as transparent as possible.
 
-## How to Set up the game⚙️
+## How to Set Up the Game ⚙️
 (GIFT OF HOW TO)
 
 
