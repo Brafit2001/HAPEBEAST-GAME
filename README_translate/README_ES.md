@@ -22,9 +22,17 @@
 * Nosotros, como equipo, somos conscientes de que en esta sociedad moderna la ciberseguridad es un tema importante. Y queremos que todo el mundo pruebe nuestro juego y se sienta seguro al hacerlo, por lo que antes de descargar el juego queremos informarte de que, al no ser un proveedor oficial de juegos, recibirás advertencias como que el archivo no es recomendable para descargar. Entendemos que después de leer esta advertencia te lo pienses dos veces antes de hacerlo. Por ello, este enlace va a un conocido [Escaner de Virus](https://www.virustotal.com/gui/home/upload) online que puedes utilizar después de la descarga y antes de jugar al juego. Además, te recomendamos que utilices cualquier otro escáner de virus, ya que queremos ser lo más transparentes posible.
 
 ## Cómo instalar el juego⚙️
-(GIFT OF HOW TO)
+* Descargar el juego
 
+https://user-images.githubusercontent.com/46831417/147775172-cbd31d03-c907-40cf-b5eb-bc0dc92a95d1.mp4
 
+* Authorización de Seguridad MacOS
+
+https://user-images.githubusercontent.com/46831417/147775455-b17921bc-b136-41d5-88cc-b2b3e08ee5bc.mp4
+
+* Authorización de Seguridad Windows
+
+https://user-images.githubusercontent.com/46831417/147776087-c6b059a4-1af9-4a4d-b866-e03a218a4b2e.mp4
 
 ## Controles + conceptos basicos📑
 * Movimiento - Izquierda "A" o "<" - Derecha "D" o ">"
