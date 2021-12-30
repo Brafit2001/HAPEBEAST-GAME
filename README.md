@@ -1,5 +1,12 @@
 # HAPEBEAST - Game 🍌🍌 
 [EN](https://github.com/Brafit2001/HAPEBEAST-GAME/edit/main/README.md) | [ES](https://github.com/Brafit2001/HAPEBEAST-GAME/blob/main/README_translate/README_ES.md) | [FR](https://github.com/Brafit2001/HAPEBEAST-GAME/blob/main/README_translate/README_FR.md) | [CN](https://github.com/Brafit2001/HAPEBEAST-GAME/blob/main/README_translate/README_CN.md)
+
+![img1](https://user-images.githubusercontent.com/46831417/147771228-e88e7df3-4c14-48f1-aadf-bf07ec0fd791.png)
+![img2](https://user-images.githubusercontent.com/46831417/147771233-7cfe6709-b7d1-467c-8e8e-60a7dee79aca.png)
+![img4](https://user-images.githubusercontent.com/46831417/147771356-ddd69a7d-54ff-4d44-af82-c5c30ba53b83.png)
+![img3](https://user-images.githubusercontent.com/46831417/147771257-eb09fb53-edd9-44dc-a620-2731050a9ddf.png)
+
+
 ## Lore🔮
 * In this story our brave monkey🦍 hero "dood van Harambe" AKA "Harambe" has seen his FATAL future in a dream, and he knows if that happens the balance of all the good and evil will be disturbed, producing our current global situation (climate change, COVID-19🦠). Therefore he takes the responsibility to prevent that at all cost, so when he has the opportunity he changes his fur colour and escapes to the further lands to meet his old friend "Master Oogway🐢". However, he needs to collect as many points as possible as the travel will be long and resources are not limitless. BEST OF LUCKS HARAMBE!!!
 
