@@ -9,9 +9,8 @@
 ## Lore🔮
 * In this story our brave monkey🦍 hero "dood van Harambe" AKA "Harambe" has seen his FATAL future in a dream, and he knows if that happens the balance of all the good and evil will be disturbed, producing our current global situation (climate change, COVID-19🦠). Therefore he takes the responsibility to prevent that at all cost, so when he has the opportunity he changes his fur colour and escapes to the further lands to meet his old friend "Master Oogway🐢". However, he needs to collect as many points as possible as the travel will be long and resources are not limitless. BEST OF LUCKS HARAMBE!!!
 
-##  Event 📖
-* During the first 24 hours, we will do a list of the top 5 players, and these players will have special recognition. For this to happen we will need you to take a screenshot of your highest score and then send it through Twitter mentioning your favourite MOOD and any of us three. Good Luck and STAY HAPE!!!
-* Also, any feedback is very well appreciated.😊
+##  Event 📖 (COMPLETED)
+* After the first 24 hours of our launch we are pleased to say that the player with the highest score was XtrMaderfackeri | HAPE with around 120kpts.😊 We as a team are really impressed by the efforts and time this player has putted in. Congrats for this accomplishment!!⚜️ 👑🏆 
 
 ## Download Links🔗
 * [MacOS Version](https://drive.google.com/file/d/1HXFSKz2p_dmxtMkCq9L6IbHKalFDolsS/view?usp=sharing)
