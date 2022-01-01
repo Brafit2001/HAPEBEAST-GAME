@@ -10,9 +10,8 @@
 * En esta historia nuestro valiente héroe mono🦍 "dood van Harambe" alias "Harambe" ha visto su HORRIBLE futuro en un sueño, y sabe que si eso ocurre el equilibrio de todo el bien y el mal se verá alterado, produciendo nuestra actual situación global (cambio climático, COVID-19🦠). Por lo tanto, asume la responsabilidad de evitarlo a toda costa, así que cuando tiene la oportunidad se cambia el color de su pelaje y escapa a las tierras más lejanas para reunirse con su viejo amigo el "Maestro Oogway🐢". Sin embargo, tiene que reunir el mayor número de puntos posible, ya que el viaje será largo y los recursos no son ilimitados. ¡¡LA MEJOR DE LAS SUERTES HARAMBE!!
 
 
-##  Evento 📖
-* Durante las primeras 24 horas, haremos una lista de los 5 mejores jugadores, y estos jugadores tendrán un reconocimiento especial. Para ello necesitaremos que hagáis una captura de pantalla de vuestra mayor puntuación y la enviéis por Twitter mencionando vuestro MOOD favorito y a cualquiera de nosotros tres. Buena suerte y ¡¡¡STAY HAPE!!!
-* Además, cualquier comentario es bien recibido.😊
+##  Evento 📖 (COMPLETADO)
+* Después de las primeras 24 horas de nuestro lanzamiento nos complace decir que el jugador con mayor puntuación fue XtrMaderfackeri | HAPE con alrededor de 120kpts.😊 Nosotros como equipo estamos realmente impresionados por el esfuerzo y el tiempo que este jugador ha puesto. Enhorabuena por este logro!!!⚜️ 👑🏆 
 
 ## Links para descargar🔗
 * [MacOS Version](https://drive.google.com/file/d/1HXFSKz2p_dmxtMkCq9L6IbHKalFDolsS/view?usp=sharing)
