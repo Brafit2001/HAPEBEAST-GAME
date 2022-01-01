@@ -10,8 +10,7 @@
 * Dans cette histoire, notre brave héros singe🦍 "dood van Harambe" alias "Harambe" a vu son avenir FATAL dans un rêve, et il sait que si cela se produit, l'équilibre de tous les bons et les mauvais sera perturbé, produisant notre situation mondiale actuelle (changement climatique, COVID-19🦠). Il prend donc la responsabilité d'empêcher cela à tout prix, alors quand il en a l'occasion, il change la couleur de sa fourrure et s'échappe vers les terres lointaines pour rencontrer son vieil ami "Maître Oogway🐢". Cependant, il doit collecter le plus de points possible car le voyage sera long et les ressources ne sont pas illimitées. BONNE CHANCE HARAMBE !!!
 
 ##  Événement 📖
-* Pendant les 24 premières heures, nous ferons une liste des 5 meilleurs joueurs, et ces joueurs auront une reconnaissance spéciale. Pour cela, il vous faudra prendre une capture d'écran de votre meilleur score et l'envoyer par Twitter en mentionnant votre MOOD préféré et l'un de nous trois. Bonne chance et STAY HAPE ! !!
-* Aussi, tout commentaire sera très apprécié.😊
+*  Après les premières 24 heures de notre lancement, nous sommes heureux de dire que le joueur avec le meilleur score était XtrMaderfackeri | HAPE avec environ 120kpts.😊 En tant qu'équipe, nous sommes vraiment impressionnés par les efforts et le temps que ce joueur a mis. Félicitations pour cet accomplissement !⚜️ 👑🏆
 
 ## Liens de téléchargement🔗
 * [MacOS Version](https://google.com)
